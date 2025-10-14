@@ -2,4 +2,4 @@
 
 import pyautogui, keyboard, time, threading using pip install
 
-it is working in Chrome (windowed fullscreen)
+it works in Google Chrome (windowed full-screen mode)
