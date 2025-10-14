@@ -5,8 +5,8 @@
 ### 📁 **Libraries**
 - pyautogui
 - keyboard
-- time
-- threading
+- _time_
+- _threading_
 ## ℹ️ **How to use**
 ### Released version
 - Download the latest released version on https://github.com/hastly-dev/twitch-auto-receive/releases
