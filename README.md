@@ -1,5 +1,9 @@
 # Twitch Auto Receive
+### Automating the collection of channel points for watching on twitch.
+> It works in Google Chrome (windowed full-screen mode)
 
-import pyautogui, keyboard, time, threading using pip install
-
-it works in Google Chrome (windowed full-screen mode)
+### 📁 **Libraries**
+- pyautogui
+- keyboard
+- time
+- threading
