@@ -1,6 +1,6 @@
 # Twitch Auto Receive
 ### Automating the collection of channel points for watching on twitch.
-> **Note:** It works in Google Chrome (windowed full-screen mode). The size of the monitor screen should be 1920x1080.
+> **Note:** The monitor screen size should be at least 1920x1080.
 
 ### 📁 **Libraries**
 - pyautogui
