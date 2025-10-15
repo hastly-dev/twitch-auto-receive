@@ -29,10 +29,11 @@ def check():
 def scanning():
     while exit == False:
         screen = pyautogui.screenshot()
-        print("...")
+        print("Scanning...")
         if screen.getpixel((posX, posY)) == (0,219,132):
             pyautogui.click(posX, posY)
             print("Points received!")
+            pyautogui.moveTo(posX-240, posY-320)
         
         time.sleep(5)
 
