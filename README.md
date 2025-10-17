@@ -17,3 +17,5 @@
 - Download all the required libraries using `pip install`
 - Open in PyCharm or CMD using `python adaptive.py` or `python windowed-full-screen.py`
 - Use the **Right Ctrl** key to stop the program.
+## ℹ️ **How it works**
+Every 5 seconds, the program takes a screenshot of the screen, and on this screenshot it searches for a pixel of color rbg(0,219,132). If such a pixel is on the screenshot (on the screen), then this pixel is clicked.
